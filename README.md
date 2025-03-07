@@ -1,7 +1,5 @@
 # Automated-weather-search-using-pyautogui
 
-# Weather Automation Script
-
 ## Description
 This Python script automates the process of searching for weather information using PyAutoGUI. It prompts the user for the location and temperature unit, opens the Windows search bar, launches the weather application, and retrieves weather details based on user input.
 
